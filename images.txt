@@ -5,7 +5,8 @@
 #--platform=linux/arm64 redis
 #--platform=linux/amd64 nginx
 #--platform=linux/amd64 phusion/baseimage:noble-1.0.0
---platform=linux/amd64 golang:1.21-alpine
---platform=linux/amd64 postgres:15
---platform=linux/amd64 redis:7
---platform=linux/amd64 golang:1.21-alpine
+#--platform=linux/amd64 golang:1.21-alpine
+#--platform=linux/amd64 postgres:15
+#--platform=linux/amd64 redis:7
+#--platform=linux/amd64 golang:1.21-alpine
+--platform=linux/amd64 nginx:1.27.0
