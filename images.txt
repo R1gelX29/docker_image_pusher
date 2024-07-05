@@ -10,5 +10,7 @@
 #--platform=linux/amd64 redis:7
 #--platform=linux/amd64 golang:1.21-alpine
 #--platform=linux/amd64 nginx:1.27.0
---platform=linux/amd64 ctftraining/base_image_nginx_mysql_php_73
---platform=linux/arm64 ctftraining/base_image_nginx_mysql_php_73
+#--platform=linux/amd64 ctftraining/base_image_nginx_mysql_php_73
+#--platform=linux/arm64 ctftraining/base_image_nginx_mysql_php_73
+--platform=linux/amd64 portainer/portainer-ee:latest
+--platform=linux/arm64 portainer/portainer-ee:latest
