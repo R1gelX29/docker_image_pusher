@@ -14,5 +14,5 @@
 #--platform=linux/arm64 ctftraining/base_image_nginx_mysql_php_73
 #--platform=linux/amd64 portainer/portainer-ee:latest
 #--platform=linux/arm64 portainer/portainer-ee:latest
---platform=linux/amd64 ctfhub/base_web_nginx_mysql_php_56
+#--platform=linux/amd64 ctfhub/base_web_nginx_mysql_php_56
 --platform=linux/amd64 python:3.8-alpine
