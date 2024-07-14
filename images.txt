@@ -20,4 +20,5 @@
 #waterknife/exam:latest
 #vlvtryvh.mirror.aliyuncs.com/wcjiang/linux-command
 #ctftraining/base_image_nginx_mysql_php_56
-safoorsafdar/php-7.4.16-apache-buster
+#safoorsafdar/php-7.4.16-apache-buster
+funxtionatics/php8-fpm-nginx-alpine
